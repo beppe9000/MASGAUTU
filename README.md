@@ -1,3 +1,3 @@
-MASGAU.Strings
+MASGAUTU
 ===
-The interface strings for MASGAU in various languages. Licensed under GPLv2.
+The MASGAU Translation Utility is a meant to be a support to people translating MASGAU interface strings. Licensed under GPLv2.
